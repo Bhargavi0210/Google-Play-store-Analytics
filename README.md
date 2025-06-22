@@ -16,6 +16,7 @@ It includes data cleaning, sentiment analysis, and advanced visualizations to un
 
 | File Name                      | Description                            |
 |-------------------------------|----------------------------------------|
+|`Internship Report`| Report About Internship |
 | `Google Play Store Analytics.ipynb` | Main Jupyter Notebook with code, plots, and outputs |
 | `README.md`                   | Project overview and instructions      |
 
